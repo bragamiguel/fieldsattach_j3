@@ -60,7 +60,7 @@
 
 	<administration>
 		<!-- Administration Menu Section -->
-		<menu img="../media/com_fieldsattach/images/logo-16x16.png">COM_FIELSATTACH_MENU</menu>
+		<menu img="../media/com_fieldsattach/images/logo-16x16.png">COM_FIELDSATTACH_MENU</menu>
 		<!-- Administration Main File Copy Section --> 
 		<files folder="admin"> 			<!-- Admin Main File Copy Section -->
 			<filename>index.html</filename>
